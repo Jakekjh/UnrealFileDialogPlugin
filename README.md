@@ -1,6 +1,6 @@
 # FileDialogPlugin for Unreal Engine
 
-A cross-platform plugin for Unreal Engine, providing users with the ability to open, save, and select files and folders using native system dialog boxes, returning the file or folder path.
+A plugin for Unreal Engine, providing users with the ability to open, save, and select files and folders using native system dialog boxes, returning the file or folder path.
 
 ## Features
 - **Open Folder Dialog**: Select a folder using a system-native dialog.
